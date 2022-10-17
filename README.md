@@ -44,3 +44,14 @@ bidang bidang pengetahuan informatika dibagi menjadi
 - [Jaringan Komputer dan Internet](jarkom.md)
 - [Komunikasi Data dengan Ponsel](komunikasi-data-dengan-ponsel.md)
 - [Proteksi Data Saat Berinternet](proteksi.md)
+
+## Bab 6 Analisis Data
+
+- [Pengenalan Perkakas Analisis Data](analisis.md)
+- [Koleksi Data](koleksi.md)
+- [Visualisasi Data](data.md)
+
+## Bab 7 Algoritma dan Pemrograman
+
+- [Algoritma](algoritma.md)
+- [Bahasa Pemrograman Prosedural](bpp.md)
