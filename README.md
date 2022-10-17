@@ -19,3 +19,10 @@ bidang bidang pengetahuan informatika dibagi menjadi
 
 - [Tentang Informatika di Sekolah Menengah Atas](ti.md)
 - [Keterampilan Generik](kg.md)
+
+# Bab 2 Berpikir Komputasional
+
+- [Pencarian / Searching](p.md)
+- [Pengurutan / Sorting](s.md)
+- [Tumpukan / Stack](t.md)
+- [Antrean / Queue](a.md)
