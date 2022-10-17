@@ -39,3 +39,8 @@ bidang bidang pengetahuan informatika dibagi menjadi
 - [Kolaborasi dalam Sistem Komputer](k.md)
 - [Sistem Operasi](os.md)
 
+## Bab 5 Jaringan Komputer dan Internet
+
+- [Jaringan Komputer dan Internet](jarkom.md)
+- [Komunikasi Data dengan Ponsel](komunikasi-data-dengan-ponsel.md)
+- [Proteksi Data Saat Berinternet](proteksi.md)
