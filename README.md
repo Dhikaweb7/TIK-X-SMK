@@ -31,3 +31,11 @@ bidang bidang pengetahuan informatika dibagi menjadi
 
 - [Integrasi Konten Aplikasi Perkantoran](app-kantor.md)
 - [Fitur Lanjutan Aplikasi Perkantoran](fitur-app-kantor.md)
+
+## Bab 4 Sistem Komputer
+
+- [Komputer dan komponen penyusunnya](kom.md)
+- [Interaksi Manusia dan Komputer](manusia.md)
+- [Kolaborasi dalam Sistem Komputer](k.md)
+- [Sistem Operasi](os.md)
+
