@@ -12,3 +12,10 @@ bidang bidang pengetahuan informatika dibagi menjadi
 - [Algoritma dan pemograman](ap.md)
 - [Dampak sosial informatika](dsi.md)
 - [Praktek Lintas Bidang](plb.md) 
+
+---
+
+# Bab 1 Informatika dan Keterampilan Generik
+
+- [Tentang Informatika di Sekolah Menengah Atas](ti.md)
+- [Keterampilan Generik](kg.md)
