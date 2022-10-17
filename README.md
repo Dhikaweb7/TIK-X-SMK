@@ -55,3 +55,13 @@ bidang bidang pengetahuan informatika dibagi menjadi
 
 - [Algoritma](algoritma.md)
 - [Bahasa Pemrograman Prosedural](bpp.md)
+- [Bahasa Pemrograman C](c.md)
+- [Pengayaan](pengayaan.md)
+
+## Bab 8 Dampak Sosial Informatika
+
+- [Sejarah Perkembangan Komputer](sejarah.md)
+- [Aspek Ekonomi dan Hukum dari Produk Informatika](aehpi.md)
+- [Informatika untuk Masa Depan](ti.md)
+- [Karier dan Studi Lanjut di Bidang Informatika](info.md)
+
