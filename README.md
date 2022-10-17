@@ -11,7 +11,6 @@ bidang bidang pengetahuan informatika dibagi menjadi
 - [Analisis Data](ad.md)
 - [Algoritma dan pemograman](ap.md)
 - [Dampak sosial informatika](dsi.md)
-- [Praktek Lintas Bidang](plb.md) 
 
 ---
 
