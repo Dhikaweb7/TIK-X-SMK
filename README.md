@@ -1,5 +1,5 @@
 # TIK-X-SMK
-Kumpulan materi mata pelajaran TIK kelas 10 / X beserta source code 
+Kumpulan materi mata pelajaran TIK kelas 10 / X TEKNIK KOMPUTER dan JARINGAN
 
 Informatika adalah bidang ilmu mengenai studi perancangan, dan pengembangan sistem komputasi,
 bidang bidang pengetahuan informatika dibagi menjadi 
