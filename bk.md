@@ -13,6 +13,6 @@ Ada 4 fondasi berpikir komputasional.
 
 ---
 
-A. [Pencarian / Searching](pencarian.md)
-B. [Pengurutan / Sorting](pengurutan.md)
-C. [Tumpukan / Stack dan Antrean / Queue](tumpukan.md)
+#### A. [Pencarian / Searching](pencarian.md)
+#### B. [Pengurutan / Sorting](pengurutan.md)
+#### C. [Tumpukan / Stack dan Antrean / Queue](tumpukan.md)
