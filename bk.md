@@ -10,3 +10,9 @@ Ada 4 fondasi berpikir komputasional.
 - [Pengenalan Pola Persoalan](ppp.md), generalisasi serta mentransfer proses penyelesaian persoalan ke persoalan lain yang sejenis.
 
 > Berpikir Komputasional perlu di asah dengan latihan secara bertahap, persoalannya ditingkatkan menjadi semakin besar,kompleks, dan rumit. Maka semakin dibutuhkan komputer agar dapat diselesaikan secara efisien.
+
+---
+
+A. [Pencarian / Searching](pencarian.md)
+B. [Pengurutan / Sorting](pengurutan.md)
+C. [Tumpukan / Stack dan Antrean / Queue](tumpukan.md)
