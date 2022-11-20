@@ -1,4 +1,15 @@
 # TIK-X-SMK
+---
+
+"██╗░░██╗████████╗██╗░░██╗░░░░░██╗░░███╗░░
+"╚██╗██╔╝╚══██╔══╝██║░██╔╝░░░░░██║░████║░░
+"░╚███╔╝░░░░██║░░░█████═╝░░░░░░██║██╔██║░░
+"░██╔██╗░░░░██║░░░██╔═██╗░██╗░░██║╚═╝██║░░
+"██╔╝╚██╗░░░██║░░░██║░╚██╗╚█████╔╝███████╗
+"╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚══════╝
+// == XCYBERONE | SMK RADEN PAKU | WRINGINANOM == /
+
+---
 Kumpulan materi mata pelajaran TIK kelas 10 / X TEKNIK KOMPUTER dan JARINGAN
 
 Informatika adalah bidang ilmu mengenai studi perancangan, dan pengembangan sistem komputasi,
