@@ -6,8 +6,8 @@ bidang bidang pengetahuan informatika dibagi menjadi
 
 - [Berpikir Komputasional](bk.md)
 - [Teknologi Informasi dan Komunikasi](tik.md)
-- [Sistem Komputer](sk.md)
-- [Jaringan Komputer dan Internet](jki.md)
+- [Sistem Komputer](sistem-komputer.md)
+- [Jaringan Komputer dan Internet](jaringan-komputer-internet.md)
 - [Analisis Data](ad.md)
 - [Algoritma dan pemograman](ap.md)
 - [Dampak sosial informatika](dsi.md)
