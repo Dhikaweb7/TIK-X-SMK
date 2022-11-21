@@ -15,7 +15,7 @@ Kumpulan materi mata pelajaran TIK kelas 10 / X TEKNIK KOMPUTER dan JARINGAN
 Informatika adalah bidang ilmu mengenai studi perancangan, dan pengembangan sistem komputasi,
 bidang bidang pengetahuan informatika dibagi menjadi 
 
-- [Berpikir Komputasional](bk.md)
+- [Berpikir Komputasional](/Berpikir-Komputasional/bk.md)
 - [Teknologi Informasi dan Komunikasi](tik.md)
 - [Sistem Komputer](sistem-komputer.md)
 - [Jaringan Komputer dan Internet](jaringan-komputer-internet.md)
