@@ -13,6 +13,13 @@ Ada 4 fondasi berpikir komputasional.
 
 ---
 
-#### A. [Pencarian / Searching](pencarian.md)
-#### B. [Pengurutan / Sorting](pengurutan.md)
-#### C. [Tumpukan / Stack dan Antrean / Queue](tumpukan.md)
+### A. [Pencarian / Searching](pencarian.md)
+       
+Pengurutan merupakan suatu permasalahan klasik pada komputasi
+yang di lakukan untuk mengatur agar suatu kelompok benda,objek, atau 
+entitas.
+
+
+
+### B. [Pengurutan / Sorting](pengurutan.md)
+### C. [Tumpukan / Stack dan Antrean / Queue](tumpukan.md)
